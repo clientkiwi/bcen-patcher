@@ -1,0 +1,19 @@
+# Never publish these
+signing_key_backup/
+*.keystore
+*.keystore.password
+archive/
+translations.sqlite
+
+# Game files / builds (must never be distributed)
+*.apk
+*.ipa
+*.pack
+*.list
+*.png
+*.tgz
+
+# Python
+__pycache__/
+*.pyc
+.venv/

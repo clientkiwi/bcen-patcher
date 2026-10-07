@@ -1,0 +1,6 @@
+japanese,english,note
+# Optional: English for Japan-only text that the English game doesn't have yet.,,
+# One line per text: the exact Japanese text, then your English. Lines starting with # are ignored.,,
+# Official English from the English game always wins; these only fill gaps.,,
+# Example (remove the # to use it):,,
+# 例のヤツ,Those Guys,enemy name

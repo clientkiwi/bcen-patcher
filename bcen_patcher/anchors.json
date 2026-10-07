@@ -1,0 +1,1377 @@
+[
+{
+"file": "Unit_Explanation1_ja.csv",
+"ja": "ネコ",
+"en": "Cat"
+},
+{
+"file": "Unit_Explanation5_ja.csv",
+"ja": "ウシネコ",
+"en": "Cow Cat"
+},
+{
+"file": "Unit_Explanation9_ja.csv",
+"ja": "巨神ネコ",
+"en": "Titan Cat"
+},
+{
+"file": "Unit_Explanation13_ja.csv",
+"ja": "猫縛り",
+"en": "Bondage Cat"
+},
+{
+"file": "Unit_Explanation17_ja.csv",
+"ja": "もねこ",
+"en": "Moneko"
+},
+{
+"file": "Unit_Explanation21_ja.csv",
+"ja": "ネコざむらい",
+"en": "Samurai Cat"
+},
+{
+"file": "Unit_Explanation25_ja.csv",
+"ja": "ネコヴァルキリー",
+"en": "Valkyrie Cat"
+},
+{
+"file": "Unit_Explanation29_ja.csv",
+"ja": "ネコカプセル",
+"en": "Capsule Cat"
+},
+{
+"file": "Unit_Explanation33_ja.csv",
+"ja": "ネコザイル",
+"en": "Hip Hop Cat"
+},
+{
+"file": "Unit_Explanation37_ja.csv",
+"ja": "ネコスイマー",
+"en": "Swimmer Cat"
+},
+{
+"file": "Unit_Explanation41_ja.csv",
+"ja": "ネコバスたぶ",
+"en": "Bath Cat"
+},
+{
+"file": "Unit_Explanation45_ja.csv",
+"ja": "鬼にゃんま",
+"en": "Lesser Demon Cat"
+},
+{
+"file": "Unit_Explanation49_ja.csv",
+"ja": "ねこ海賊",
+"en": "Pirate Cat"
+},
+{
+"file": "Unit_Explanation53_ja.csv",
+"ja": "ネコシャーマン",
+"en": "Shaman Cat"
+},
+{
+"file": "Unit_Explanation57_ja.csv",
+"ja": "ネコアーチャー",
+"en": "Archer Cat"
+},
+{
+"file": "Unit_Explanation61_ja.csv",
+"ja": "ネコブ・ロンズ",
+"en": "Bronze Cat"
+},
+{
+"file": "Unit_Explanation65_ja.csv",
+"ja": "剣士ジョニー",
+"en": "Swordsman Johnny"
+},
+{
+"file": "Unit_Explanation69_ja.csv",
+"ja": "執行者",
+"en": "Reaper"
+},
+{
+"file": "Unit_Explanation73_ja.csv",
+"ja": "前田慶次",
+"en": "Maeda Keiji"
+},
+{
+"file": "Unit_Explanation77_ja.csv",
+"ja": "雷神のサンディア",
+"en": "Thundia"
+},
+{
+"file": "Unit_Explanation81_ja.csv",
+"ja": "吾輩は鬼である",
+"en": "Evil Cat"
+},
+{
+"file": "Unit_Explanation85_ja.csv",
+"ja": "聖龍メギドラ",
+"en": "Megidora"
+},
+{
+"file": "Unit_Explanation89_ja.csv",
+"ja": "ネコなわとび",
+"en": "Rope Jump Cat"
+},
+{
+"file": "Unit_Explanation93_ja.csv",
+"ja": "狂乱のタンクネコ",
+"en": "Crazed Tank Cat"
+},
+{
+"file": "Unit_Explanation97_ja.csv",
+"ja": "狂乱のネコノトリ",
+"en": "Crazed Bird Cat"
+},
+{
+"file": "Unit_Explanation101_ja.csv",
+"ja": "ネコ乙女",
+"en": "Maiden Cat"
+},
+{
+"file": "Unit_Explanation105_ja.csv",
+"ja": "マジでコイしてる",
+"en": "Koi Cat"
+},
+{
+"file": "Unit_Explanation109_ja.csv",
+"ja": "にゃんこ３兄弟",
+"en": "Cat Bros"
+},
+{
+"file": "Unit_Explanation113_ja.csv",
+"ja": "オルガ",
+"en": "Olga"
+},
+{
+"file": "Unit_Explanation117_ja.csv",
+"ja": "フウ",
+"en": "Fuu"
+},
+{
+"file": "Unit_Explanation121_ja.csv",
+"ja": "癒術士",
+"en": "Healer"
+},
+{
+"file": "Unit_Explanation125_ja.csv",
+"ja": "伊達政宗",
+"en": "Date Masamune"
+},
+{
+"file": "Unit_Explanation129_ja.csv",
+"ja": "うらめしにゃん",
+"en": "Vengeful Cat"
+},
+{
+"file": "Unit_Explanation133_ja.csv",
+"ja": "カンフーにゃんこＧ",
+"en": "Kung Fu Cat X"
+},
+{
+"file": "Unit_Explanation137_ja.csv",
+"ja": "ももたろう",
+"en": "Momotaro"
+},
+{
+"file": "Unit_Explanation141_ja.csv",
+"ja": "ふにゅふにゅネコ",
+"en": "Squish Ball Cat"
+},
+{
+"file": "Unit_Explanation145_ja.csv",
+"ja": "にゃんこ城Mini",
+"en": "Cat Base Mini"
+},
+{
+"file": "Unit_Explanation149_ja.csv",
+"ja": "ねこロッカー",
+"en": "Rocker Cat"
+},
+{
+"file": "Unit_Explanation153_ja.csv",
+"ja": "ネコスケート",
+"en": "Figure Skating Cats"
+},
+{
+"file": "Unit_Explanation157_ja.csv",
+"ja": "ドラリー剣士",
+"en": "Dragon League Swordsman"
+},
+{
+"file": "Unit_Explanation161_ja.csv",
+"ja": "ユーリンチー",
+"en": "Yurinchi"
+},
+{
+"file": "Unit_Explanation165_ja.csv",
+"ja": "西園寺 瞳",
+"en": "Hitomi Saionji"
+},
+{
+"file": "Unit_Explanation169_ja.csv",
+"ja": "アシルガ",
+"en": "Asiluga"
+},
+{
+"file": "Unit_Explanation173_ja.csv",
+"ja": "コニャンダム",
+"en": "Li'l Nyandam"
+},
+{
+"file": "Unit_Explanation177_ja.csv",
+"ja": "マシュマロにゃん",
+"en": "Marshmallow Cat"
+},
+{
+"file": "Unit_Explanation181_ja.csv",
+"ja": "謎の少女ユキ",
+"en": "Mystery Girl Yuki"
+},
+{
+"file": "Unit_Explanation185_ja.csv",
+"ja": "ミスターニンジャ",
+"en": "Mr. Ninja"
+},
+{
+"file": "Unit_Explanation189_ja.csv",
+"ja": "ミスティカ",
+"en": "Mystica"
+},
+{
+"file": "Unit_Explanation193_ja.csv",
+"ja": "山岡実乃里",
+"en": "Yamaoka Minori"
+},
+{
+"file": "Unit_Explanation197_ja.csv",
+"ja": "キャットマンダディ",
+"en": "Catman"
+},
+{
+"file": "Unit_Explanation201_ja.csv",
+"ja": "メタルネコ",
+"en": "Metal Cat"
+},
+{
+"file": "Unit_Explanation205_ja.csv",
+"ja": "アイルー",
+"en": "Felyne"
+},
+{
+"file": "Unit_Explanation209_ja.csv",
+"ja": "キリンネコ",
+"en": "Kirin Cat"
+},
+{
+"file": "Unit_Explanation213_ja.csv",
+"ja": "ホワイトラビット",
+"en": "The White Rabbit"
+},
+{
+"file": "Unit_Explanation217_ja.csv",
+"ja": "ターマ",
+"en": "TARMA"
+},
+{
+"file": "Unit_Explanation221_ja.csv",
+"ja": "アレン・オニール",
+"en": "ALLEN O'NEIL"
+},
+{
+"file": "Unit_Explanation225_ja.csv",
+"ja": "モーデン元帥",
+"en": "DONALD MORDEN"
+},
+{
+"file": "Unit_Explanation229_ja.csv",
+"ja": "ハロウィンねねこ",
+"en": "Gloomy Neneko"
+},
+{
+"file": "Unit_Explanation233_ja.csv",
+"ja": "光の神徒ヴァルキリー",
+"en": "Junior God of Light - Valkyrie"
+},
+{
+"file": "Unit_Explanation237_ja.csv",
+"ja": "軍神オーディン",
+"en": "God of War - Odin"
+},
+{
+"file": "Unit_Explanation241_ja.csv",
+"ja": "トゲルガ",
+"en": "Togeluga"
+},
+{
+"file": "Unit_Explanation245_ja.csv",
+"ja": "ネコのプレゼント",
+"en": "A Gift of Cats"
+},
+{
+"file": "Unit_Explanation249_ja.csv",
+"ja": "死にたてにゃんこ",
+"en": "Undead Cat"
+},
+{
+"file": "Unit_Explanation253_ja.csv",
+"ja": "バトルバルーン",
+"en": "Battle Balloon"
+},
+{
+"file": "Unit_Explanation257_ja.csv",
+"ja": "ゴーレム",
+"en": "Golem"
+},
+{
+"file": "Unit_Explanation261_ja.csv",
+"ja": "ネコウェイ",
+"en": "Catway"
+},
+{
+"file": "Unit_Explanation265_ja.csv",
+"ja": "クロミ",
+"en": "Kuromi"
+},
+{
+"file": "Unit_Explanation269_ja.csv",
+"ja": "ネコずきんミーニャ",
+"en": "Red Riding Mina"
+},
+{
+"file": "Unit_Explanation273_ja.csv",
+"ja": "繁栄神ガネーシャ",
+"en": "Splendid Ganesha"
+},
+{
+"file": "Unit_Explanation277_ja.csv",
+"ja": "夏色ねねこ",
+"en": "Sunny Neneko"
+},
+{
+"file": "Unit_Explanation281_ja.csv",
+"ja": "要塞なめこ",
+"en": "Fortressy"
+},
+{
+"file": "Unit_Explanation285_ja.csv",
+"ja": "ネコ特急",
+"en": "Express Cat"
+},
+{
+"file": "Unit_Explanation289_ja.csv",
+"ja": "鹿目まどか",
+"en": "Madoka Kaname"
+},
+{
+"file": "Unit_Explanation293_ja.csv",
+"ja": "佐倉杏子",
+"en": "Kyoko Sakura"
+},
+{
+"file": "Unit_Explanation297_ja.csv",
+"ja": "ネコさやか",
+"en": "Sayaka Cat"
+},
+{
+"file": "Unit_Explanation301_ja.csv",
+"ja": "ちびほむら",
+"en": "Li'l Homura"
+},
+{
+"file": "Unit_Explanation305_ja.csv",
+"ja": "帝国陸軍カタパルズ",
+"en": "Mighty Kat-A-Pult"
+},
+{
+"file": "Unit_Explanation309_ja.csv",
+"ja": "ネコバサミ",
+"en": "Gardener Cat"
+},
+{
+"file": "Unit_Explanation313_ja.csv",
+"ja": "ちびネコトカゲ",
+"en": "Li'l Lizard Cat"
+},
+{
+"file": "Unit_Explanation317_ja.csv",
+"ja": "海王神ポセイドン",
+"en": "Wrathful Poseidon"
+},
+{
+"file": "Unit_Explanation325_ja.csv",
+"ja": "ネコストーン",
+"en": "Curling Cat"
+},
+{
+"file": "Unit_Explanation329_ja.csv",
+"ja": "ハッピー100",
+"en": "Happy 100"
+},
+{
+"file": "Unit_Explanation333_ja.csv",
+"ja": "イースターねねこ",
+"en": "Easter Neneko"
+},
+{
+"file": "Unit_Explanation337_ja.csv",
+"ja": "ミイラ娘レイカ",
+"en": "Queen Reika"
+},
+{
+"file": "Unit_Explanation341_ja.csv",
+"ja": "赤髪のゆきにゃん",
+"en": "Redhead Yuki Cat"
+},
+{
+"file": "Unit_Explanation345_ja.csv",
+"ja": "オルトス",
+"en": "Orthos"
+},
+{
+"file": "Unit_Explanation349_ja.csv",
+"ja": "ぐでたまプレート",
+"en": "Gudetama Plate"
+},
+{
+"file": "Unit_Explanation353_ja.csv",
+"ja": "ネコ仙人",
+"en": "Hermit Cat"
+},
+{
+"file": "Unit_Explanation357_ja.csv",
+"ja": "ノラ",
+"en": "Nora"
+},
+{
+"file": "Unit_Explanation361_ja.csv",
+"ja": "水の精霊ミズリィ",
+"en": "Mizli"
+},
+{
+"file": "Unit_Explanation365_ja.csv",
+"ja": "イリヤスフィール",
+"en": "Illyasviel"
+},
+{
+"file": "Unit_Explanation369_ja.csv",
+"ja": "ギルガメッシュ",
+"en": "Gilgamesh"
+},
+{
+"file": "Unit_Explanation373_ja.csv",
+"ja": "ネコイリヤ",
+"en": "Illya the Cat"
+},
+{
+"file": "Unit_Explanation377_ja.csv",
+"ja": "ネコ探査機",
+"en": "Rover Cat"
+},
+{
+"file": "Unit_Explanation381_ja.csv",
+"ja": "幼傑ダルターニャ",
+"en": "D'artanyan"
+},
+{
+"file": "Unit_Explanation385_ja.csv",
+"ja": "氷上聡里＆ネコ",
+"en": "Satori Hikami & Cat"
+},
+{
+"file": "Unit_Explanation389_ja.csv",
+"ja": "片桐恋",
+"en": "Ren Katagiri"
+},
+{
+"file": "Unit_Explanation393_ja.csv",
+"ja": "六道聖",
+"en": "Hijiri Rokudo"
+},
+{
+"file": "Unit_Explanation397_ja.csv",
+"ja": "古龍ガングリオン",
+"en": "Ganglion"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "わんこ",
+"en": "Doge"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "にょろ",
+"en": "Snache"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "例のヤツ",
+"en": "Those Guys"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "カバちゃん",
+"en": "Hippoe"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ブタヤロウ",
+"en": "Pigge"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ジャッキー・ペン",
+"en": "Jackie Peng"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ゴリさん",
+"en": "Gory"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "メェメェ",
+"en": "Baa Baa"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ゴマさま",
+"en": "Sir Seal"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "パオン",
+"en": "Le'boin"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "カ・ンガリュ",
+"en": "Kang Roo"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "一角くん",
+"en": "One Horn"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "クマ先生",
+"en": "Teacher Bear"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ワニック",
+"en": "Croco"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ウサ銀",
+"en": "B.B.Bunny"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "リッスントゥミー",
+"en": "Squire Rel"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ブラックマ",
+"en": "Assassin Bear"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "赤羅我王",
+"en": "Shy Boy"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "カオル君",
+"en": "The Face"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "カンバン娘",
+"en": "Ms. Sign"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ガガガガ",
+"en": "Mooth"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "悪の帝王 ニャンダム",
+"en": "Dark Emperor Nyandam"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ぶんぶん先生",
+"en": "Teacher Bun Bun"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "師匠",
+"en": "Master A."
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ダチョウ同好会",
+"en": "R.Ost"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "フルぼっこ",
+"en": "Otta-smack-u"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "コアラッキョ",
+"en": "Kory"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "こぶへい",
+"en": "Camelle"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "アヒルンルン",
+"en": "Duche"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "まゆげどり",
+"en": "Owlbrow"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "イノシャシ",
+"en": "Bore"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ナマルケモルル",
+"en": "THE SLOTH"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ナカイくん",
+"en": "Rain D."
+},
+{
+"file": "Enemyname.tsv",
+"ja": "だっふんど",
+"en": "Dagshund"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "セレブ",
+"en": "Celeboodle"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ハイ・エナジー",
+"en": "H. Nah"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ダディ",
+"en": "Dober P.D"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "ウルフとウルルン",
+"en": "Ururun Wolf"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "殺意のわんこ",
+"en": "Doge Dark"
+},
+{
+"file": "Enemyname.tsv",
+"ja": "メタルカバちゃん",
+"en": "Metal Hippoe"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコボン屋敷 初級",
+"en": "Rich Cat (Easy)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコボン屋敷 中級",
+"en": "Rich Cat (Normal)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコボン屋敷 上級",
+"en": "Rich Cat (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "爆速バトラー 初級",
+"en": "Speed Cat (Easy)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "爆速バトラー 中級",
+"en": "Speed Cat (Normal)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "爆速バトラー 上級",
+"en": "Speed Cat (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おかめ道場 初級",
+"en": "Cat Jobs (Easy)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おかめ道場 中級",
+"en": "Cat Jobs (Normal)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おかめ道場 上級",
+"en": "Cat Jobs (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "狙撃の名手 初級",
+"en": "Sniper Cat (Easy)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "狙撃の名手 中級",
+"en": "Sniper Cat (Normal)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "狙撃の名手 上級",
+"en": "Sniper Cat (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコでもできるもん 初級",
+"en": "Helpful Cat (Easy)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコでもできるもん 中級",
+"en": "Helpful Cat (Normal)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "ネコでもできるもん 上級",
+"en": "Helpful Cat (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "恋のメタカバ 上級",
+"en": "Love‚ Metal Hippoe (Hard)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "超メタル降臨 激ムズ",
+"en": "Super Metal Hippoe (Expert)"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "激アツ！運動会",
+"en": "Athletic Meet"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "アンチハロウィン",
+"en": "Anti Halloween"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "勝者と敗者",
+"en": "Winning and Losing"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "毎日ごくろうさまです",
+"en": "Weeklong Meetings"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おはようございます",
+"en": "Co-workers don't work"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "失礼いたします",
+"en": "Stress Relief Stress"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おつかれさまです",
+"en": "Jobs in Jobs Security"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "申し訳ございません",
+"en": "Pay without Leave"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "私、もう辞めます。",
+"en": "Value of Last Minute"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "クリスマス・イヴ",
+"en": "That Night"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "聖夜に灯るひとつの恋",
+"en": "That Song"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "あったかいシチュー",
+"en": "Warm Stew"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "雪と猫",
+"en": "Cat & Snow"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おじさんがサンタだよ",
+"en": "Part Time Santa"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "サンタorサタン!?",
+"en": "Santa or Satan!?"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "異国のサンタも金次第",
+"en": "Santa is on Salary"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "君にメリークリスマス！",
+"en": "Happy Merry X-mas"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "今年も年賀状ゼロ",
+"en": "No Happy Holidays"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "モチ太り",
+"en": "Holiday Diet Fail"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "大荒れ成人式",
+"en": "No More Resolutions"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "初詣という名の口実",
+"en": "Just One More Drink"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "初夢が淫夢",
+"en": "After After Party"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "お賽銭５円の効果",
+"en": "Forgot the Countdown"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "おモチvsそうじ機",
+"en": "Blackout"
+},
+{
+"file": "StageName_RS_ja.csv",
+"ja": "いくつになってもお年玉",
+"en": "Hangover"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "夏休みのはじまり",
+"en": "Start of Summer"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "ひぐらしの合唱",
+"en": "Sundown Chorus"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "夜にあふれる光",
+"en": "Light Overflowing"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "樹上のひみつ基地",
+"en": "Hidden Treehouse"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "夕飯を告げる声",
+"en": "Call to Dinner"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "防虫剤の匂いの浴衣",
+"en": "Citronella Scent"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "今日だけは夜ふかし",
+"en": "Late Nite Special"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "虫取り網を握って",
+"en": "Grip Your Net"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "海底に光るお宝",
+"en": "Sea Floor Treasure"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "蚊取り線香のけむり",
+"en": "Bug Spray Mist"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "校庭で盆踊り",
+"en": "Schoolyard Dance"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "ふしぎなお姉さん",
+"en": "An Alluring Lady"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "日焼けしたタケシ君",
+"en": "Suntanned Boy"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "遠くに聞こえる祭囃子",
+"en": "Music in the Distance"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "肝試しで消えた友達",
+"en": "A Lost Friend"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "起きたら昼だった",
+"en": "Waking at Noon"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "発見！ヒミツの入り江",
+"en": "A Secret Cove"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "かすかな秋の気配",
+"en": "Hints of Autumn"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "この夏最後の花火",
+"en": "Final Fireworks"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "終わらない宿題",
+"en": "Last-Minute Homework"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "太陰暦のお正月らしい",
+"en": "Lunar New Year Already?"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "大玉花火でド派手にお祝い",
+"en": "Flashy Fireworks Display"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "大音量の爆竹で魔除け",
+"en": "Cast Out Evil with a Bang"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "赤い袋でお年玉ねだり",
+"en": "Begging for Gifts"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "挨拶回りは長寿祈願",
+"en": "Pray for Long Life"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "アクロバティック獅子舞",
+"en": "Acrobatic Lion Dance"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "逆さ福字の飾りで福を招く",
+"en": "Decorate for Luck"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "赤提灯は超めでたい色",
+"en": "Auspicious Red Lantern"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "まんぷく年越し水餃子",
+"en": "Stuffed with Dumplings"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "帰省で全国大移動",
+"en": "Long Road Home"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "運命を決める席替え",
+"en": "Desk of Destiny"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "幼馴染が隣の席",
+"en": "Seated Next to Your Crush"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "よく落ちる消しゴム",
+"en": "The Dropped Eraser"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "教科書見せてとくっつく机",
+"en": "Sharing Textbooks"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "友達の宿題を丸写し",
+"en": "Copied Homework"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "こっそり早弁チャレンジ",
+"en": "Furtive Whispers"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "授業中は夢の中",
+"en": "Classroom Daydream"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "ドッヂボールは逃走専門",
+"en": "Dodgeball Dodger"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "昼休み購買競走",
+"en": "Race to the Cafeteria"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "放課後二人きりのテスト勉強",
+"en": "Studying with Her"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "内申点のために行儀よく",
+"en": "Reforming Comment"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "解けない問題に限って当たる",
+"en": "Unstudied Topics"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "こっそり教えてくれる答え",
+"en": "Cheater Handsigns"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "突然の抜き打ちテスト",
+"en": "Pop Quiz Pain"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "ギリギリ赤点回避",
+"en": "Barely Passing"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "置き勉でらくらく登下校",
+"en": "Textbook Free"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "あの子と一緒の掃除当番",
+"en": "Cleaning with Her"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "目線の先にはいつも君",
+"en": "Always on my Mind"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "一夜漬けに失敗",
+"en": "Cram Session Failure"
+},
+{
+"file": "StageName_RA_ja.csv",
+"ja": "成績と恋の行方は神頼み",
+"en": "God Willing Grades"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "大地を揺るがす",
+"en": "Earthshaker"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "あの恐怖、再び",
+"en": "Return of Terror"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "おつかれサンセット",
+"en": "Sunset Blues"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "メランコリー湿地",
+"en": "Melancholy Damp"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ぷるるん広場",
+"en": "Bouncy Park"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "愛情のまなざし",
+"en": "Gentle Smile"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "眠れる獅子",
+"en": "Sleeping Lion"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ニャンダルシア",
+"en": "Nyandalucia"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "パエリア草原",
+"en": "Paella Field"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "サングリア川",
+"en": "Sangria River"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ガスパチョ高原",
+"en": "Gazpacho Highland"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "チュロス・ナイト",
+"en": "Churros Night"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "乾いた庭園",
+"en": "Bone Dry Gardens"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "タパス砂漠",
+"en": "Tapas Desert"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "コンドロイチン砂丘",
+"en": "Chondroitin Sandhill"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "セサ民遺跡",
+"en": "Sesamin Ruins"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "イソフラボン洞窟",
+"en": "Isoflavone Cave"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "カテキン丘陵",
+"en": "Catechin Hill"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "リコピンの夕焼け",
+"en": "Lycopene Sunset"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "プロポリスオアシス",
+"en": "Propolis Oasis"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ペプチド雪原",
+"en": "Peptide Snowfield"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ヒアルロン山",
+"en": "Hyaluronan Mountain"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "無茶ぶり進水式",
+"en": "Premature Launch"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ユーザン海原",
+"en": "Deep Ocean Blue"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "人魚の入り江",
+"en": "Mermaid Cove"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "カオスラグーン",
+"en": "Chaos Lagoon"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "なんちゃって海賊",
+"en": "Playing Pirates"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ホコタテ漁場",
+"en": "Fisherman's Dilemma"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "テングサ島",
+"en": "Seaweed Shallows"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "海の水は塩辛い",
+"en": "Salty is Seawater"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ぽろり鉱石",
+"en": "Lovely Minerals"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "セクシー鍾乳洞",
+"en": "Shapely Caverns"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ドキドキ穴",
+"en": "Enticing Tunnels"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ぷりぷりくぼみ",
+"en": "Squishy Hollows"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "フタこぶ岩",
+"en": "Twin Peaks"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "スリルの代償",
+"en": "Thriller Bridge"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ガンマンの黄昏",
+"en": "Gunman's Dawn"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "カウボーイ天国",
+"en": "Cowboy Haven"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "お尋ね者の夜",
+"en": "Wanted Night"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "マカロニタウン",
+"en": "Macaroni Town"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "さすらいの口笛",
+"en": "Wandering Traveler"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "がっかり用心棒",
+"en": "Disappointed Guard"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "テンガロン山",
+"en": "Cowboy Mountain"
+},
+{
+"file": "StageName_RN_ja.csv",
+"ja": "ロデオナイト",
+"en": "Rodeo Night"
+}
+]

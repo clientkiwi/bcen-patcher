@@ -1,0 +1,10 @@
+{
+  "app_name": "Battle Cats",
+  "check_minutes": 30,
+
+  "work_dir": "",
+  "adb": "",
+  "adb_serial": "",
+  "java_bin": "",
+  "signature_v2": "auto"
+}
