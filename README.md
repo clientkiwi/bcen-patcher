@@ -56,6 +56,22 @@ Your English copy shows an "update required" message until you do; ignore its st
 
 **Moving your account:** use the game's own **Data Transfer** (引き継ぎ) to move your progress from the original app into the English copy, or start fresh.
 
+## Checking a downloaded game file is genuine
+
+If QooApp lags behind and you get the Japanese game from a download site, check the file before installing it:
+
+```bash
+%USERPROFILE%\.bcen-patcher\venv\Scripts\python -m bcen_patcher.apksig path\to\download.xapk
+```
+
+It verifies the signature of every part of the app and prints the signer's fingerprint. Genuine PONOS releases of にゃんこ大戦争 and The Battle Cats are signed by:
+
+`baf876d554213331c6fe5f6bbf9ae9af2f95c20e82b14bc232b0ac3a77680cb1`
+
+- **Pass:** every line says `ok` and the fingerprint matches. The file is PONOS's original, unchanged, wherever it came from.
+- **Fail:** anything else (a failed check, a different fingerprint, or a file that turns out to be a "download manager" app) means don't install it.
+- **Keep the current version installed while updating.** Android itself refuses an update that isn't signed by the same developer, so a fake gets refused automatically.
+
 ## Safety checks
 
 Nothing is installed unless all of these pass:
